@@ -18,6 +18,7 @@ require('./models/User')
 require('./services/passport')
 require('./routes/authRoutes')(app)
 require('./routes/billingRoutes')(app)
+require('./routes/surveyRoutes')(app)
 mongoose.connect(keys.mongoURI)
 
 if(process.env.NODE_ENV === 'production'){
