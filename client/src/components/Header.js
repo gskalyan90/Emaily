@@ -24,7 +24,7 @@ class Header extends React.Component{
       <nav>
         <div className="nav-wrapper">
           <a className="left brand-logo">
-            Emailey
+            Soorvey
           </a>
           <ul className="right">
             {this.renderLogin()} 
