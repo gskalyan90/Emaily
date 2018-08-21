@@ -10,7 +10,7 @@ npm install
 
 npm run dev
 
-Then go to http://localhost: 3000
+Then go to http://localhost:3000
 
 Some more description ......Coming soon
 
