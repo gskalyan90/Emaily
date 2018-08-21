@@ -18,3 +18,6 @@ Some more description ......Coming soon
 
 you can click on Add credits and enter sample card 4242 4242 4242 4242 (CVV can be any 3 digits and some future date for the expiry) to add the credits
 
+You can checkout here : https://whispering-sierra-40716.herokuapp.com/
+
+Have to work on the styling
